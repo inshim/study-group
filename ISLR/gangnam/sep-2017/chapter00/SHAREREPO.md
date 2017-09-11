@@ -24,3 +24,5 @@
 -   김선호 - <https://github.com/ksseono/>
 -   황효성 - <https://github.com/hyoseonghwang/>
 -   배병선 - <https://github.com/ByungSunBae/>
+-   하헌철 - <https://github.com/Curycu/>
+-   심일남 - <https://github.com/inshim/>
